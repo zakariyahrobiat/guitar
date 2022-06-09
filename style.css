@@ -151,7 +151,7 @@ li{
 .img-container img{
     width: 17%;
     position: absolute;
-    top: 11em;
+    top: 10em;
     left: 3em;
     z-index: -1;
 }
