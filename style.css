@@ -61,7 +61,7 @@ li{
    
 }
 .first-box li{
-    padding: 1px 0 1px 1px;
+    padding: 0.5px 0 0.5px 1px;
 }
 .first-box hr{
     border-top: 1px dotted black;
@@ -94,14 +94,14 @@ li{
     
 }
 .second-container  p{
-    font-size: 6px;
+    font-size: 5.5px;
 }
 .second-container span{
     color: rgb(255, 123, 0);
 }
 .body .text-container .first-text{
     padding-bottom: 3px;
-    font-size: 7px;
+    font-size: 5.5px;
     color: rgba(4, 128, 230, 0.842);
 }
 .second-container h2{
