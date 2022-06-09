@@ -49,7 +49,7 @@ li{
 .first-box{
     margin: 10px 0;
     background: rgba(255, 255, 255, 0.3) ;
-    padding:0px 5px 10px 5px;
+    padding: 0px 5px 10px 5px;
     border-radius: 5px;
      /* box-shadow: 2px 2px 5px rgb(161, 184, 248) , -2px -2px 5px rgb(161, 184, 248);  */
     
@@ -62,7 +62,7 @@ li{
    
 }
 .first-box li{
-    margin: -0.5px 0 -0.2px 1px;
+    padding: 0px 0 0.2px 1px;
 }
 
 .first-box hr{
@@ -151,7 +151,7 @@ li{
 .img-container img{
     width: 13%;
     position: absolute;
-    top:10em;
+    top:9em;
     left: 4em;
     z-index: -1;
 }
